@@ -1,0 +1,7 @@
+com\udacity\security\web\LocationController.class
+com\udacity\security\repository\LocationRepository.class
+com\udacity\security\service\LocationServiceImpl.class
+com\udacity\security\config\SpringSecurityConfig.class
+com\udacity\security\service\LocationService.class
+com\udacity\security\entity\Location.class
+com\udacity\security\SecurityApplication.class
